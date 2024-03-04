@@ -1,0 +1,449 @@
+;; Account: Assets:Current:CitiSampleBank
+;; Date: 
+;; Name: CitiSampleBank.json
+
+2023-12-06 * "MAGNA BANK" "ATM Deposit"
+  Assets:Current:CitiSampleBank  -86.72 USD
+    fin_id: "txn_os1s186ad5kh1qqqv8009"
+
+2023-12-06 * "EBAY" "PayPal Purchase"
+  Assets:Current:CitiSampleBank  68.17 USD
+    fin_id: "txn_os1s186ad5kh1qqqv800a"
+
+2023-12-06 * "WALGREENS" "Walgreens"
+  Assets:Current:CitiSampleBank  82.54 USD
+    fin_id: "txn_os1s186ad5kh1qqqv800b"
+
+2023-12-07 * "TJ MAXX" "TJ Maxx"
+  Assets:Current:CitiSampleBank  66.02 USD
+    fin_id: "txn_os1s186ad5kh1qqqv8006"
+
+2023-12-07 * "AMERICAN EXPRESS" "American Express Platinum Card"
+  Assets:Current:CitiSampleBank  64.15 USD
+    fin_id: "txn_os1s186ad5kh1qqqv8007"
+
+2023-12-07 * "YOURSELF" "Recurring Transfer to Savings"
+  Assets:Current:CitiSampleBank  75.66 USD
+    fin_id: "txn_os1s186ad5kh1qqqv8008"
+
+2023-12-08 * "PETSMART" "Petsmart"
+  Assets:Current:CitiSampleBank  112.82 USD
+    fin_id: "txn_os1s186ad5kh1qqqv8005"
+
+2023-12-09 * "ATM WORLDWIDE" "External ATM Cash"
+  Assets:Current:CitiSampleBank  75.04 USD
+    fin_id: "txn_os1s186ad5kh1qqqv8004"
+
+2023-12-10 * "CENTURYLINK" "Century Link"
+  Assets:Current:CitiSampleBank  62.13 USD
+    fin_id: "txn_os1s186ad5kh1qqqv8003"
+
+2023-12-11 * "CARDTRONICS" "ATM Withdrawal"
+  Assets:Current:CitiSampleBank  88.23 USD
+    fin_id: "txn_os1s186ad5kh1qqqv8001"
+
+2023-12-11 * "MERRIOTT" "Marriot Rewards"
+  Assets:Current:CitiSampleBank  108.85 USD
+    fin_id: "txn_os1s186ad5kh1qqqv8002"
+
+2023-12-12 * "AT&T WIRELESS" "AT&T Company Contract"
+  Assets:Current:CitiSampleBank  48.35 USD
+    fin_id: "txn_os1s1869t5kh1qqqv800i"
+
+2023-12-12 * "SQUARE" "Point of Sale - Monthly"
+  Assets:Current:CitiSampleBank  99.77 USD
+    fin_id: "txn_os1s1869t5kh1qqqv800j"
+
+2023-12-12 * "AMERICAN EXPRESS" "American Express Platinum Card"
+  Assets:Current:CitiSampleBank  66.98 USD
+    fin_id: "txn_os1s186ad5kh1qqqv8000"
+
+2023-12-13 * "MERRIOTT" "Marriot Rewards"
+  Assets:Current:CitiSampleBank  15.28 USD
+    fin_id: "txn_os1s1869t5kh1qqqv800h"
+
+2023-12-14 * "IN-N-OUT BURGER" "In-N-Out Burger"
+  Assets:Current:CitiSampleBank  20.55 USD
+    fin_id: "txn_os1s1869t5kh1qqqv800g"
+
+2023-12-15 * "MAGNA BANK" "ATM Deposit"
+  Assets:Current:CitiSampleBank  -68.27 USD
+    fin_id: "txn_os1s1869t5kh1qqqv800f"
+
+2023-12-16 * "SQUARE" "Point of Sale - Monthly"
+  Assets:Current:CitiSampleBank  42.86 USD
+    fin_id: "txn_os1s1869t5kh1qqqv800e"
+
+2023-12-17 * "BANK OF THE WEST" "Electronic Withdrawal"
+  Assets:Current:CitiSampleBank  54.69 USD
+    fin_id: "txn_os1s1869t5kh1qqqv800d"
+
+2023-12-18 * "HILTON HOTELS" "Hilton Hotel Miami"
+  Assets:Current:CitiSampleBank  -83.55 USD
+    fin_id: "txn_os1s1869t5kh1qqqv800c"
+
+2023-12-19 * "WINGSTOP" "Wingstop"
+  Assets:Current:CitiSampleBank  97.28 USD
+    fin_id: "txn_os1s1869t5kh1qqqv800b"
+
+2023-12-20 * "AB LOGISTICS" "Zelle Payment"
+  Assets:Current:CitiSampleBank  93.59 USD
+    fin_id: "txn_os1s1869t5kh1qqqv8009"
+
+2023-12-20 * "BANK OF ALL" "Insufficient Funds Fee"
+  Assets:Current:CitiSampleBank  9.06 USD
+    fin_id: "txn_os1s1869t5kh1qqqv800a"
+
+2023-12-21 * "AB LOGISTICS" "Zelle Payment"
+  Assets:Current:CitiSampleBank  70.41 USD
+    fin_id: "txn_os1s1869t5kh1qqqv8008"
+
+2023-12-22 * "PAPA JOHN'S" "Papa John's"
+  Assets:Current:CitiSampleBank  27.35 USD
+    fin_id: "txn_os1s1869t5kh1qqqv8006"
+
+2023-12-22 * "CENTURYLINK" "Century Link"
+  Assets:Current:CitiSampleBank  90.76 USD
+    fin_id: "txn_os1s1869t5kh1qqqv8007"
+
+2023-12-23 * "PETSMART" "Petsmart"
+  Assets:Current:CitiSampleBank  45.07 USD
+    fin_id: "txn_os1s1869t5kh1qqqv8005"
+
+2023-12-24 * "YOURSELF" "Recurring Transfer to Savings"
+  Assets:Current:CitiSampleBank  88.43 USD
+    fin_id: "txn_os1s1869t5kh1qqqv8004"
+
+2023-12-25 * "GAP" "Gap"
+  Assets:Current:CitiSampleBank  11.49 USD
+    fin_id: "txn_os1s1869t5kh1qqqv8003"
+
+2023-12-26 * "SHAKE SHACK" "Shake Shack"
+  Assets:Current:CitiSampleBank  64.45 USD
+    fin_id: "txn_os1s1869t5kh1qqqv8001"
+
+2023-12-26 * "VC FUND" "Incoming Wire"
+  Assets:Current:CitiSampleBank  72.02 USD
+    fin_id: "txn_os1s1869t5kh1qqqv8002"
+
+2023-12-27 * "YOURSELF" "Transfer to Checking"
+  Assets:Current:CitiSampleBank  43.04 USD
+    fin_id: "txn_os1s1869t5kh1qqqv8000"
+
+2023-12-28 * "DISCOVER" "Interest Charge"
+  Assets:Current:CitiSampleBank  113.64 USD
+    fin_id: "txn_os1s1869d5kh1qqqv800k"
+
+2023-12-29 * "EASY PAY" "Cash Withdrawal"
+  Assets:Current:CitiSampleBank  99.68 USD
+    fin_id: "txn_os1s1869d5kh1qqqv800j"
+
+2023-12-30 * "DICK'S SPORTING GOODS" "Dick's Sporting Goods"
+  Assets:Current:CitiSampleBank  20.96 USD
+    fin_id: "txn_os1s1869d5kh1qqqv800h"
+
+2023-12-30 * "BANK OF THE WEST" "Electronic Withdrawal"
+  Assets:Current:CitiSampleBank  65.43 USD
+    fin_id: "txn_os1s1869d5kh1qqqv800i"
+
+2023-12-31 * "EBAY" "PayPal Purchase"
+  Assets:Current:CitiSampleBank  111.31 USD
+    fin_id: "txn_os1s1869d5kh1qqqv800g"
+
+2024-01-01 * "AMERICAN EXPRESS" "Interest Payment"
+  Assets:Current:CitiSampleBank  23.74 USD
+    fin_id: "txn_os1s1869d5kh1qqqv800e"
+
+2024-01-01 * "SUBWAY" "Subway"
+  Assets:Current:CitiSampleBank  99.95 USD
+    fin_id: "txn_os1s1869d5kh1qqqv800f"
+
+2024-01-02 * "BANK OF THE WEST" "Electronic Withdrawal"
+  Assets:Current:CitiSampleBank  87.81 USD
+    fin_id: "txn_os1s1869d5kh1qqqv800c"
+
+2024-01-02 * "EASY PAY" "Cash Withdrawal"
+  Assets:Current:CitiSampleBank  123.94 USD
+    fin_id: "txn_os1s1869d5kh1qqqv800d"
+
+2024-01-04 * "TOYOTA" "Toyota Financial Services"
+  Assets:Current:CitiSampleBank  105.99 USD
+    fin_id: "txn_os1s1869d5kh1qqqv800b"
+
+2024-01-05 * "EBAY" "PayPal Purchase"
+  Assets:Current:CitiSampleBank  53.47 USD
+    fin_id: "txn_os1s1869d5kh1qqqv800a"
+
+2024-01-06 * "CARDTRONICS" "ATM Withdrawal"
+  Assets:Current:CitiSampleBank  118.30 USD
+    fin_id: "txn_os1s1869d5kh1qqqv8009"
+
+2024-01-07 * "BIG BANK" "International Transaction Fee"
+  Assets:Current:CitiSampleBank  24.76 USD
+    fin_id: "txn_os1s1869d5kh1qqqv8008"
+
+2024-01-08 * "WORLD BANK" "Interest Earned"
+  Assets:Current:CitiSampleBank  -77.36 USD
+    fin_id: "txn_os1s1869d5kh1qqqv8007"
+
+2024-01-10 * "SAM BLOCK" "Zelle Payment"
+  Assets:Current:CitiSampleBank  7.96 USD
+    fin_id: "txn_os1s1869d5kh1qqqv8004"
+
+2024-01-10 * "SAM BLOCK" "Zelle Payment"
+  Assets:Current:CitiSampleBank  97.33 USD
+    fin_id: "txn_os1s1869d5kh1qqqv8005"
+
+2024-01-10 * "EASY PAY" "Cash Withdrawal"
+  Assets:Current:CitiSampleBank  42.34 USD
+    fin_id: "txn_os1s1869d5kh1qqqv8006"
+
+2024-01-13 * "LOUISE BENTLEY" "Venmo Payment"
+  Assets:Current:CitiSampleBank  10.69 USD
+    fin_id: "txn_os1s1869d5kh1qqqv8003"
+
+2024-01-14 * "KFC" "KFC"
+  Assets:Current:CitiSampleBank  123.15 USD
+    fin_id: "txn_os1s1869d5kh1qqqv8001"
+
+2024-01-14 * "JACK IN THE BOX" "Jack In The Box"
+  Assets:Current:CitiSampleBank  88.34 USD
+    fin_id: "txn_os1s1869d5kh1qqqv8002"
+
+2024-01-15 * "AMERICAN EXPRESS" "Interest Payment"
+  Assets:Current:CitiSampleBank  116.99 USD
+    fin_id: "txn_os1s1869d5kh1qqqv8000"
+
+2024-01-17 * "WATER SUPPLY COMPANY" "Monthly Water Bill"
+  Assets:Current:CitiSampleBank  95.49 USD
+    fin_id: "txn_os1s1868t5kh1qqqv800j"
+
+2024-01-20 * "SAM BLOCK" "Zelle Payment"
+  Assets:Current:CitiSampleBank  116.65 USD
+    fin_id: "txn_os1s1868t5kh1qqqv800g"
+
+2024-01-20 * "SAM BLOCK" "Zelle Payment"
+  Assets:Current:CitiSampleBank  99.88 USD
+    fin_id: "txn_os1s1868t5kh1qqqv800h"
+
+2024-01-20 * "BIG BANK" "International Transaction Fee"
+  Assets:Current:CitiSampleBank  99.83 USD
+    fin_id: "txn_os1s1868t5kh1qqqv800i"
+
+2024-01-21 * "SQUARE" "Point of Sale - Monthly"
+  Assets:Current:CitiSampleBank  19.55 USD
+    fin_id: "txn_os1s1868t5kh1qqqv800f"
+
+2024-01-22 * "TOYOTA" "Toyota Financial Services"
+  Assets:Current:CitiSampleBank  20.16 USD
+    fin_id: "txn_os1s1868t5kh1qqqv800d"
+
+2024-01-22 * "GAP" "Gap"
+  Assets:Current:CitiSampleBank  119.80 USD
+    fin_id: "txn_os1s1868t5kh1qqqv800e"
+
+2024-01-23 * "SAM BLOCK" "Zelle Payment"
+  Assets:Current:CitiSampleBank  75.55 USD
+    fin_id: "txn_os1s1868t5kh1qqqv800b"
+
+2024-01-23 * "MERRIOTT" "Marriot Rewards"
+  Assets:Current:CitiSampleBank  85.46 USD
+    fin_id: "txn_os1s1868t5kh1qqqv800c"
+
+2024-01-24 * "WATER SUPPLY COMPANY" "Monthly Water Bill"
+  Assets:Current:CitiSampleBank  111.31 USD
+    fin_id: "txn_os1s1868t5kh1qqqv8008"
+
+2024-01-24 * "WALMART" "Purchase Return"
+  Assets:Current:CitiSampleBank  -12.14 USD
+    fin_id: "txn_os1s1868t5kh1qqqv8009"
+
+2024-01-24 * "AMERICAN EXPRESS" "Interest Payment"
+  Assets:Current:CitiSampleBank  82.18 USD
+    fin_id: "txn_os1s1868t5kh1qqqv800a"
+
+2024-01-27 * "LOUISE BENTLEY" "Venmo Payment"
+  Assets:Current:CitiSampleBank  13.51 USD
+    fin_id: "txn_os1s1868t5kh1qqqv8007"
+
+2024-01-28 * "YOURSELF" "Transfer to Checking"
+  Assets:Current:CitiSampleBank  42.09 USD
+    fin_id: "txn_os1s1868t5kh1qqqv8006"
+
+2024-01-29 * "DUNKIN' DONUTS" "Dunkin' Donuts"
+  Assets:Current:CitiSampleBank  71.47 USD
+    fin_id: "txn_os1s1868t5kh1qqqv8003"
+
+2024-01-29 * "MEGA BANK" "Cash Deposit"
+  Assets:Current:CitiSampleBank  -49.36 USD
+    fin_id: "txn_os1s1868t5kh1qqqv8004"
+
+2024-01-29 * "JOSE SALAS" "International Wire Transfer"
+  Assets:Current:CitiSampleBank  65.52 USD
+    fin_id: "txn_os1s1868t5kh1qqqv8005"
+
+2024-01-30 * "EBAY" "PayPal Purchase"
+  Assets:Current:CitiSampleBank  50.96 USD
+    fin_id: "txn_os1s1868t5kh1qqqv8002"
+
+2024-02-01 * "AB LOGISTICS" "Zelle Payment"
+  Assets:Current:CitiSampleBank  65.89 USD
+    fin_id: "txn_os1s1868d5kh1qqqv800j"
+
+2024-02-01 * "WILLIAMS-SONOMA" "Williams-Sonoma"
+  Assets:Current:CitiSampleBank  74.36 USD
+    fin_id: "txn_os1s1868t5kh1qqqv8000"
+
+2024-02-01 * "MAGNA BANK" "ATM Deposit"
+  Assets:Current:CitiSampleBank  -109.43 USD
+    fin_id: "txn_os1s1868t5kh1qqqv8001"
+
+2024-02-02 * "SAM BLOCK" "Zelle Payment"
+  Assets:Current:CitiSampleBank  80.43 USD
+    fin_id: "txn_os1s1868d5kh1qqqv800i"
+
+2024-02-03 * "MERRIOTT" "Marriot Rewards"
+  Assets:Current:CitiSampleBank  86.95 USD
+    fin_id: "txn_os1s1868d5kh1qqqv800h"
+
+2024-02-04 * "YOURSELF" "Recurring Transfer to Savings"
+  Assets:Current:CitiSampleBank  83.40 USD
+    fin_id: "txn_os1s1868d5kh1qqqv800g"
+
+2024-02-05 * "BANK OF ALL" "Insufficient Funds Fee"
+  Assets:Current:CitiSampleBank  84.14 USD
+    fin_id: "txn_os1s1868d5kh1qqqv800d"
+
+2024-02-05 * "JOHN SMITH" "Monthtly Rental"
+  Assets:Current:CitiSampleBank  -74.55 USD
+    fin_id: "txn_os1s1868d5kh1qqqv800e"
+
+2024-02-05 * "MEGA BANK" "Cash Deposit"
+  Assets:Current:CitiSampleBank  -25.79 USD
+    fin_id: "txn_os1s1868d5kh1qqqv800f"
+
+2024-02-06 * "MEGA BANK" "Cash Deposit"
+  Assets:Current:CitiSampleBank  -35.63 USD
+    fin_id: "txn_os1s1868d5kh1qqqv800c"
+
+2024-02-08 * "MERRIOTT" "Marriot Rewards"
+  Assets:Current:CitiSampleBank  109.89 USD
+    fin_id: "txn_os1s1868d5kh1qqqv800b"
+
+2024-02-09 * "SEARS" "Sears"
+  Assets:Current:CitiSampleBank  62.68 USD
+    fin_id: "txn_os1s1868d5kh1qqqv8009"
+
+2024-02-09 * "MAGNA BANK" "ATM Deposit"
+  Assets:Current:CitiSampleBank  -14.03 USD
+    fin_id: "txn_os1s1868d5kh1qqqv800a"
+
+2024-02-10 * "MEGA BANK" "Cash Deposit"
+  Assets:Current:CitiSampleBank  -10.53 USD
+    fin_id: "txn_os1s1868d5kh1qqqv8007"
+
+2024-02-10 * "SAM BLOCK" "Zelle Payment"
+  Assets:Current:CitiSampleBank  85.70 USD
+    fin_id: "txn_os1s1868d5kh1qqqv8008"
+
+2024-02-11 * "EBAY" "PayPal Purchase"
+  Assets:Current:CitiSampleBank  20.28 USD
+    fin_id: "txn_os1s1868d5kh1qqqv8006"
+
+2024-02-12 * "SLIM CHICKENS" "Slim Chickens"
+  Assets:Current:CitiSampleBank  68.47 USD
+    fin_id: "txn_os1s1868d5kh1qqqv8003"
+
+2024-02-12 * "MEGA BANK" "Cash Deposit"
+  Assets:Current:CitiSampleBank  -73.37 USD
+    fin_id: "txn_os1s1868d5kh1qqqv8004"
+
+2024-02-12 * "TJ MAXX" "TJ Maxx"
+  Assets:Current:CitiSampleBank  58.70 USD
+    fin_id: "txn_os1s1868d5kh1qqqv8005"
+
+2024-02-13 * "YOURSELF" "Recurring Transfer to Savings"
+  Assets:Current:CitiSampleBank  44.50 USD
+    fin_id: "txn_os1s1868d5kh1qqqv8002"
+
+2024-02-14 * "JAMES ARDEN" "Domestic Wire"
+  Assets:Current:CitiSampleBank  120.92 USD
+    fin_id: "txn_os1s1868d5kh1qqqv8001"
+
+2024-02-15 * "JOHN SMITH" "Monthtly Rental"
+  Assets:Current:CitiSampleBank  -14.26 USD
+    fin_id: "txn_os1s1868d5kh1qqqv8000"
+
+2024-02-17 * "HILTON HOTELS" "Hilton Hotel Miami"
+  Assets:Current:CitiSampleBank  -22.31 USD
+    fin_id: "txn_os1s1867t5kh1qqqv800h"
+
+2024-02-20 * "FOOT LOCKER" "Foot Locker"
+  Assets:Current:CitiSampleBank  60.98 USD
+    fin_id: "txn_os1s1867t5kh1qqqv800e"
+
+2024-02-20 * "LOUISE BENTLEY" "Venmo Payment"
+  Assets:Current:CitiSampleBank  111.35 USD
+    fin_id: "txn_os1s1867t5kh1qqqv800f"
+
+2024-02-20 * "THE CREAMERY" "The Creamery"
+  Assets:Current:CitiSampleBank  49.42 USD
+    fin_id: "txn_os1s1867t5kh1qqqv800g"
+
+2024-02-21 * "SMILE SOFTWARE HOUSE" "E-Commerce Website Project"
+  Assets:Current:CitiSampleBank  26.52 USD
+    fin_id: "txn_os1s1867t5kh1qqqv800c"
+
+2024-02-21 * "AB LOGISTICS" "Zelle Payment"
+  Assets:Current:CitiSampleBank  29.43 USD
+    fin_id: "txn_os1s1867t5kh1qqqv800d"
+
+2024-02-22 * "O'REILLY" "O'Reilly"
+  Assets:Current:CitiSampleBank  10.52 USD
+    fin_id: "txn_os1s1867t5kh1qqqv800b"
+
+2024-02-23 * "LOUISE BENTLEY" "Venmo Payment"
+  Assets:Current:CitiSampleBank  72.00 USD
+    fin_id: "txn_os1s1867t5kh1qqqv8009"
+
+2024-02-23 * "WORLD BANK" "Interest Earned"
+  Assets:Current:CitiSampleBank  -18.24 USD
+    fin_id: "txn_os1s1867t5kh1qqqv800a"
+
+2024-02-24 * "AMERICAN EXPRESS" "American Express Platinum Card"
+  Assets:Current:CitiSampleBank  24.46 USD
+    fin_id: "txn_os1s1867t5kh1qqqv8008"
+
+2024-02-26 * "BIG BANK" "International Transaction Fee"
+  Assets:Current:CitiSampleBank  17.60 USD
+    fin_id: "txn_os1s1867t5kh1qqqv8006"
+
+2024-02-26 * "7-ELEVEN" "7-Eleven"
+  Assets:Current:CitiSampleBank  99.15 USD
+    fin_id: "txn_os1s1867t5kh1qqqv8007"
+
+2024-02-28 * "SQUARE" "Point of Sale - Monthly"
+  Assets:Current:CitiSampleBank  65.51 USD
+    fin_id: "txn_os1s1867t5kh1qqqv8005"
+
+2024-02-29 * "WATER SUPPLY COMPANY" "Monthly Water Bill"
+  Assets:Current:CitiSampleBank  28.51 USD
+    fin_id: "txn_os1s1867t5kh1qqqv8002"
+
+2024-02-29 * "LOUISE BENTLEY" "Venmo Payment"
+  Assets:Current:CitiSampleBank  18.24 USD
+    fin_id: "txn_os1s1867t5kh1qqqv8003"
+
+2024-02-29 * "CARDTRONICS" "ATM Withdrawal"
+  Assets:Current:CitiSampleBank  91.03 USD
+    fin_id: "txn_os1s1867t5kh1qqqv8004"
+
+2024-03-01 * "LOUISE BENTLEY" "Venmo Payment"
+  Assets:Current:CitiSampleBank  34.46 USD
+    fin_id: "txn_os1s1867t5kh1qqqv8001"
+
+2024-03-02 * "EASY PAY" "Cash Withdrawal"
+  Assets:Current:CitiSampleBank  83.32 USD
+    fin_id: "txn_os1s1867t5kh1qqqv8000"
+
+2024-03-03 balance Assets:Current:CitiSampleBank                   6963.50 USD
