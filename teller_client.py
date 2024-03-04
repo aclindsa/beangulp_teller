@@ -12,6 +12,9 @@ class Teller():
         self.cert = cert
         self.access_token = access_token
 
+    def list_institutions(self):
+        return self._get('/institutions')
+
     # Returns an array of accounts with beneficial owner identity information
     # attached.
     def get_identity(self):
@@ -77,6 +80,8 @@ def _parse_args():
                         help="path to the TLS certificate private key")
     subparser = parser.add_subparsers(required=True, dest="command", metavar="COMMAND")
 
+    list_institutions = subparser.add_parser('list-institutions', help="Returns a list of institutions supported by teller")
+
     get_identity = subparser.add_parser('get-identity', help="Get an array of accounts with beneficial owner identity information attached")
 
     list_accounts = subparser.add_parser(
@@ -113,6 +118,8 @@ def main(args):
     json = None
 
     match args.command:
+        case 'list-institutions':
+            json = client.list_institutions()
         case 'get-identity':
             json = client.get_identity()
         case 'list-accounts':
