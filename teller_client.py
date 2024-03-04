@@ -115,30 +115,32 @@ def _parse_args():
 def main(args):
     cert = (args.cert, args.cert_key)
     client = Teller(cert, args.access_token)
-    json = None
+    resp = None
 
     match args.command:
         case 'list-institutions':
-            json = client.list_institutions()
+            resp = client.list_institutions()
         case 'get-identity':
-            json = client.get_identity()
+            resp = client.get_identity()
         case 'list-accounts':
-            json = client.list_accounts()
+            resp = client.list_accounts()
         case 'get-account':
-            json = client.get_account(args.account_id)
+            resp = client.get_account(args.account_id)
         case 'delete-account':
-            json = client.delete_account(args.account_id)
+            resp = client.delete_account(args.account_id)
         case 'get-account-details':
-            json = client.get_account_details(args.account_id)
+            resp = client.get_account_details(args.account_id)
         case 'get-account-balances':
-            json = client.get_account_balances(args.account_id)
+            resp = client.get_account_balances(args.account_id)
         case 'list-account-transactions':
-            json = client.list_account_transactions(args.account_id, args.count, args.from_id)
+            resp = client.list_account_transactions(args.account_id, args.count, args.from_id)
         case 'get-account-transaction':
-            json = client.get_account_transaction(args.account_id, args.transaction_id)
+            resp = client.get_account_transaction(args.account_id, args.transaction_id)
         case _:
             print("Unknown command")
-    print(json.json())
+
+    resp.raise_for_status()
+    print(resp.json())
 
 
 if __name__ == "__main__":
