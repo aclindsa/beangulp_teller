@@ -46,7 +46,9 @@ class Teller():
 
     # Returns a list of all transactions belonging to the account.
     def list_account_transactions(self, account_id, count=None, from_id=None):
-        params = {"count": count, "from_id": from_id}
+        params = {"count": count}
+        if from_id is not None:
+            params['from_id'] = from_id
         return self._get(f'/accounts/{account_id}/transactions', params=params)
 
     # Returns an individual transaction.
