@@ -93,11 +93,11 @@ def amounts_map(entry):
         if not posting.meta:
             continue
         # Skip interpolated postings.
-        if interpolate.AUTOMATIC_META in posting.meta or 'fin_id' not in posting.meta:
+        if interpolate.AUTOMATIC_META in posting.meta or 'teller_txid' not in posting.meta:
             continue
         currency = isinstance(posting.units, amount.Amount) and posting.units.currency
         if isinstance(currency, str):
-            plaid_id = posting.meta['fin_id'] if 'fin_id' in posting.meta else None
+            plaid_id = posting.meta['teller_txid'] if 'teller_txid' in posting.meta else None
             key = (posting.account, plaid_id, currency)
             amounts[key] += posting.units.number
     return amounts
@@ -144,13 +144,13 @@ class Importer(beangulp.Importer):
                 merch = transaction['details']['counterparty']['name']
             else:
                 merch = desc
-            fin_id = transaction['id']
+            teller_txid = transaction['id']
             amt = transaction['amount']
             meta = data.new_metadata(filepath, index)
             units = amount.Amount(D(amt), currency)
 
             leg1 = data.Posting(self.account_name, -units, None, None, None,
-                                {'fin_id': fin_id})
+                                {'teller_txid': teller_txid})
             txn = data.Transaction(meta, t_date, flags.FLAG_OKAY, merch, desc,
                                    data.EMPTY_SET, data.EMPTY_SET, [leg1])
             entries.append(txn)
