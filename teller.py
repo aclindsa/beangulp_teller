@@ -136,6 +136,8 @@ class Importer(beangulp.Importer):
         latest_date = date.min
 
         for index, transaction in enumerate(j['transactions']):
+            if transaction['status'] == 'pending':
+                continue
             t_date = parse(transaction['date']).date()
             latest_date = t_date if t_date > latest_date else latest_date
 
